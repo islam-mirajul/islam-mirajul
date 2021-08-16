@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mirajul Islam</h1>
-- 🌱 I’m currently learning **every things**
 
 - 👯 I’m looking to collaborate on **any ML/DL projects**
 
