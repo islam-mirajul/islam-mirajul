@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mirajul Islam</h1>
 
-- 📫Reach me **mahinpranto1111@gmail.com**
+- 📫Reach me **islamm2024@my.fit.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
